@@ -1,2 +1,2 @@
 # Space-game
-A shooting game to make
+A shooting game to make your day.
