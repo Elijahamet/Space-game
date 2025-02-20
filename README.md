@@ -1,2 +1,2 @@
 # Space-game
-A shooting game to
+A shooting game to make
